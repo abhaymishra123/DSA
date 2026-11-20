@@ -17,7 +17,6 @@ if else --> logic lgane aane chahiye bs
 
 max--> order of n--> using max function inside for loop --> overall time complexity will be O(n2)--> keep in mind
 
-
 Question framed in such a way it was pointing to approch in this way
 
 instant deep thought in di
